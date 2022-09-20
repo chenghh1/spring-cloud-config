@@ -1,1 +1,2 @@
-this a config-dev.yml version=2
+config:
+  info: this a config-dev.yml version=2
